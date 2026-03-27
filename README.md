@@ -13,7 +13,7 @@
 - 📁 All of my projects are available at **[GitHub Profile](https://github.com/PavanAnabathula)**
 - 💬 Ask me about **Playwright, JavaScript, Automation Testing, QA, Test Case Design, JIRA**
 - 📧 How to reach me **anabathulapavan1@gmail.com**
-- 🔗 Know about my experiences **[LinkedIn Profile]https://www.linkedin.com/in/pavan-anabathula-306601313?utm_source=share_via&utm_content=profile&utm_medium=member_android**
+- 🔗 Know about my experiences **[LinkedIn Profile]https://www.linkedin.com/in/pavan-anabathula
 - ⚡ Fun fact **I love building robust test automation frameworks**
 
 ---
